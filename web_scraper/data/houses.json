@@ -1,0 +1,252 @@
+[
+    {
+        "soldon": "2014-09-25 00:00:00", 
+        "capture_date": "2014-10-08 23:23:44", 
+        "longitude": "-93304810", 
+        "soldprice": 60000.0, 
+        "link": "/homedetails/1715-Morgan-Ave-N-Minneapolis-MN-55411/1839725_zpid/", 
+        "address": "1715 Morgan Ave N, Minneapolis, MN", 
+        "latitude": "44996784", 
+        "zpid": "1839725"
+    }, 
+    {
+        "soldon": "2014-09-16 00:00:00", 
+        "capture_date": "2014-10-08 23:23:44", 
+        "longitude": "-93304810", 
+        "soldprice": 50000.0, 
+        "link": "/homedetails/1623-Morgan-Ave-N-Minneapolis-MN-55411/1839707_zpid/", 
+        "address": "1623 Morgan Ave N, Minneapolis, MN", 
+        "latitude": "44995884", 
+        "zpid": "1839707"
+    }, 
+    {
+        "soldon": "2014-09-10 00:00:00", 
+        "capture_date": "2014-10-08 23:23:44", 
+        "longitude": "-93299103", 
+        "soldprice": 161550.0, 
+        "link": "/homedetails/2115-Irving-Ave-N-Minneapolis-MN-55411/71812255_zpid/", 
+        "address": "2115 Irving Ave N, Minneapolis, MN", 
+        "latitude": "45000786", 
+        "zpid": "71812255"
+    }, 
+    {
+        "soldon": "2014-09-10 00:00:00", 
+        "capture_date": "2014-10-08 23:23:44", 
+        "longitude": "-93296074", 
+        "soldprice": 269000.0, 
+        "link": "/homedetails/1427-Fremont-Ave-N-Minneapolis-MN-55411/1840188_zpid/", 
+        "address": "1427 Fremont Ave N, Minneapolis, MN", 
+        "latitude": "44993996", 
+        "zpid": "1840188"
+    }, 
+    {
+        "soldon": "2014-08-22 00:00:00", 
+        "capture_date": "2014-10-08 23:23:44", 
+        "longitude": "-93306060", 
+        "soldprice": 113500.0, 
+        "link": "/homedetails/1519-Newton-Ave-N-Minneapolis-MN-55411/1839758_zpid/", 
+        "address": "1519 Newton Ave N, Minneapolis, MN", 
+        "latitude": "44994747", 
+        "zpid": "1839758"
+    }, 
+    {
+        "soldon": "2014-08-21 00:00:00", 
+        "capture_date": "2014-10-08 23:23:44", 
+        "longitude": "-93302299", 
+        "soldprice": 88079.0, 
+        "link": "/homedetails/1337-Knox-Ave-N-Minneapolis-MN-55411/1839970_zpid/", 
+        "address": "1337 Knox Ave N, Minneapolis, MN", 
+        "latitude": "44992706", 
+        "zpid": "1839970"
+    }, 
+    {
+        "soldon": "2014-07-31 00:00:00", 
+        "capture_date": "2014-10-08 23:23:44", 
+        "longitude": "-93302307", 
+        "soldprice": 77900.0, 
+        "link": "/homedetails/1119-Knox-Ave-N-Minneapolis-MN-55411/1897502_zpid/", 
+        "address": "1119 Knox Ave N, Minneapolis, MN", 
+        "latitude": "44989315", 
+        "zpid": "1897502"
+    }, 
+    {
+        "soldon": "2014-07-28 00:00:00", 
+        "capture_date": "2014-10-08 23:23:44", 
+        "longitude": "-93304092", 
+        "soldprice": 60000.0, 
+        "link": "/homedetails/1510-Morgan-Ave-N-Minneapolis-MN-55411/1839805_zpid/", 
+        "address": "1510 Morgan Ave N, Minneapolis, MN", 
+        "latitude": "44994525", 
+        "zpid": "1839805"
+    }, 
+    {
+        "soldon": "2014-07-03 00:00:00", 
+        "capture_date": "2014-10-08 23:23:44", 
+        "longitude": "-93306617", 
+        "soldprice": 123876.0, 
+        "link": "/homedetails/2102-Oliver-Ave-N-Minneapolis-MN-55411/1839316_zpid/", 
+        "address": "2102 Oliver Ave N, Minneapolis, MN", 
+        "latitude": "45000877", 
+        "zpid": "1839316"
+    }, 
+    {
+        "soldon": "2014-06-30 00:00:00", 
+        "capture_date": "2014-10-08 23:23:44", 
+        "longitude": "-93299797", 
+        "soldprice": 48000.0, 
+        "link": "/homedetails/1325-Irving-Ave-N-Minneapolis-MN-55411/1839898_zpid/", 
+        "address": "1325 Irving Ave N, Minneapolis, MN", 
+        "latitude": "44992359", 
+        "zpid": "1839898"
+    }, 
+    {
+        "soldon": "2014-06-30 00:00:00", 
+        "capture_date": "2014-10-08 23:23:44", 
+        "longitude": "-93292145", 
+        "soldprice": 280000.0, 
+        "link": "/homedetails/1512-Dupont-Ave-N-Minneapolis-MN-55411/1840288_zpid/", 
+        "address": "1512 Dupont Ave N, Minneapolis, MN", 
+        "latitude": "44994621", 
+        "zpid": "1840288"
+    }, 
+    {
+        "soldon": "2014-06-27 00:00:00", 
+        "capture_date": "2014-10-08 23:23:44", 
+        "longitude": "-93294540", 
+        "soldprice": 215000.0, 
+        "link": "/homedetails/1615-Emerson-Ave-N-Minneapolis-MN-55411/1840126_zpid/", 
+        "address": "1615 Emerson Ave N, Minneapolis, MN", 
+        "latitude": "44995781", 
+        "zpid": "1840126"
+    }, 
+    {
+        "soldon": "2014-06-25 00:00:00", 
+        "capture_date": "2014-10-08 23:23:44", 
+        "longitude": "-93290596", 
+        "soldprice": 145000.0, 
+        "link": "/homedetails/2118-Bryant-Ave-N-Minneapolis-MN-55411/1838834_zpid/", 
+        "address": "2118 Bryant Ave N, Minneapolis, MN", 
+        "latitude": "45000869", 
+        "zpid": "1838834"
+    }, 
+    {
+        "soldon": "2014-06-24 00:00:00", 
+        "capture_date": "2014-10-08 23:23:44", 
+        "longitude": "-93293181", 
+        "soldprice": 263000.0, 
+        "link": "/homedetails/1101-Van-White-Memorial-Blvd-Minneapolis-MN-55411/71814139_zpid/", 
+        "address": "1101 Van White Memorial Blvd, Minneapolis, MN", 
+        "latitude": "44989059", 
+        "zpid": "71814139"
+    }, 
+    {
+        "soldon": "2014-06-20 00:00:00", 
+        "capture_date": "2014-10-08 23:23:44", 
+        "longitude": "-93307838", 
+        "soldprice": 60000.0, 
+        "link": "/homedetails/1510-Penn-Ave-N-Minneapolis-MN-55411/1839742_zpid/", 
+        "address": "1510 Penn Ave N, Minneapolis, MN", 
+        "latitude": "44994656", 
+        "zpid": "1839742"
+    }, 
+    {
+        "soldon": "2014-06-02 00:00:00", 
+        "capture_date": "2014-10-08 23:23:44", 
+        "longitude": "-93300727", 
+        "soldprice": 82500.0, 
+        "link": "/homedetails/1541-Hillside-Ave-N-Minneapolis-MN-55411/1839457_zpid/", 
+        "address": "1541 Hillside Ave N, Minneapolis, MN", 
+        "latitude": "45000637", 
+        "zpid": "1839457"
+    }, 
+    {
+        "soldon": "2014-05-20 00:00:00", 
+        "capture_date": "2014-10-08 23:23:44", 
+        "longitude": "-93299087", 
+        "soldprice": 157500.0, 
+        "link": "/homedetails/1622-Irving-Ave-N-Minneapolis-MN-55411/1839551_zpid/", 
+        "address": "1622 Irving Ave N, Minneapolis, MN", 
+        "latitude": "44995944", 
+        "zpid": "1839551"
+    }, 
+    {
+        "soldon": "2014-05-20 00:00:00", 
+        "capture_date": "2014-10-08 23:23:44", 
+        "longitude": "-93304824", 
+        "soldprice": 110500.0, 
+        "link": "/homedetails/1219-Morgan-Ave-N-Minneapolis-MN-55411/1897609_zpid/", 
+        "address": "1219 Morgan Ave N, Minneapolis, MN", 
+        "latitude": "44990318", 
+        "zpid": "1897609"
+    }, 
+    {
+        "soldon": "2014-05-13 00:00:00", 
+        "capture_date": "2014-10-08 23:23:44", 
+        "longitude": "-93299079", 
+        "soldprice": 140000.0, 
+        "link": "/homedetails/1800-Irving-Ln-N-Brooklyn-Center-MN-55430/1939951_zpid/", 
+        "address": "1800 Irving Ln N, Brooklyn Center, MN", 
+        "latitude": "44997554", 
+        "zpid": "1939951"
+    }, 
+    {
+        "soldon": "2014-05-06 00:00:00", 
+        "capture_date": "2014-10-08 23:23:44", 
+        "longitude": "-93301086", 
+        "soldprice": 159900.0, 
+        "link": "/homedetails/1551-Hillside-Ave-N-Minneapolis-MN-55411/1839460_zpid/", 
+        "address": "1551 Hillside Ave N, Minneapolis, MN", 
+        "latitude": "45000957", 
+        "zpid": "1839460"
+    }, 
+    {
+        "soldon": "2014-04-24 00:00:00", 
+        "capture_date": "2014-10-08 23:23:44", 
+        "longitude": "-93303550", 
+        "soldprice": 129000.0, 
+        "link": "/homedetails/1401-Logan-Ave-N-Minneapolis-MN-55411/1839843_zpid/", 
+        "address": "1401 Logan Ave N, Minneapolis, MN", 
+        "latitude": "44993221", 
+        "zpid": "1839843"
+    }, 
+    {
+        "soldon": "2014-04-16 00:00:00", 
+        "capture_date": "2014-10-08 23:23:44", 
+        "longitude": "-93301033", 
+        "soldprice": 55000.0, 
+        "link": "/homedetails/1201-James-Ave-N-Minneapolis-MN-55411/1897474_zpid/", 
+        "address": "1201 James Ave N, Minneapolis, MN", 
+        "latitude": "44990215", 
+        "zpid": "1897474"
+    }, 
+    {
+        "soldon": "2014-04-14 00:00:00", 
+        "capture_date": "2014-10-08 23:23:44", 
+        "longitude": "-93306083", 
+        "soldprice": 133000.0, 
+        "link": "/homedetails/1115-Newton-Ave-N-Minneapolis-MN-55411/1897586_zpid/", 
+        "address": "1115 Newton Ave N, Minneapolis, MN", 
+        "latitude": "44989337", 
+        "zpid": "1897586"
+    }, 
+    {
+        "soldon": "2014-04-09 00:00:00", 
+        "capture_date": "2014-10-08 23:23:44", 
+        "longitude": "-93305374", 
+        "soldprice": 119000.0, 
+        "link": "/homedetails/1210-Newton-Ave-N-Minneapolis-MN-55411/1897601_zpid/", 
+        "address": "1210 Newton Ave N, Minneapolis, MN", 
+        "latitude": "44990161", 
+        "zpid": "1897601"
+    }, 
+    {
+        "soldon": "2014-04-09 00:00:00", 
+        "capture_date": "2014-10-08 23:23:44", 
+        "longitude": "-93307846", 
+        "soldprice": 55556.0, 
+        "link": "/homedetails/1712-Penn-Ave-N-Minneapolis-MN-55411/1839683_zpid/", 
+        "address": "1712 Penn Ave N, Minneapolis, MN", 
+        "latitude": "44996749", 
+        "zpid": "1839683"
+    }
+]

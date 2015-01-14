@@ -1,0 +1,53 @@
+Alabama  - Shravan 
+Alaska - Shravan 
+Arizona - Shravan 
+Arkansas - Shravan 
+California - Shravan 
+Colorado - Shravan 
+Connecticut - Shravan 
+Delaware - Shravan 
+Florida - Shravan 
+Georgia - Shravan 
+Hawaii - Shravan 
+Idaho - Shravan 
+Illinois - Shravan 
+Indiana - Shravan 
+Iowa	-Shravan
+Kansas -Shravan
+Kentucky-Shravan
+Louisiana -Shravan
+Maine -Shravan
+Maryland -Shravan
+Massachusetts - Hamza 
+Michigan - Hamza 
+Minnesota - Hamza 
+Mississippi - Hamza 
+Missouri - Hamza 
+Montana - Hamza 
+Nebraska - Hamza 
+Nevada - Hamza 
+New Hampshire - Hamza 
+New Jersey - Hamza 
+New Mexico - Hamza 
+New York - Hamza 
+North Carolina - Hamza 
+North Dakota - Hamza 
+Ohio -Hamza
+Oklahoma - Bharadhwaj 
+Oregon - Bharadhwaj 
+Pennsylvania - Bharadhwaj 
+Rhode Island - Bharadhwaj 
+South Carolina - Bharadhwaj 
+South Dakota - Bharadhwaj 
+Tennessee - Bharadhwaj 
+Texas - Bharadhwaj 
+Utah - Bharadhwaj 
+Vermont - Bharadhwaj 
+Virginia - Bharadhwaj 
+Washington - Bharadhwaj 
+West Virginia - Bharadhwaj 
+Wisconsin - Bharadhwaj 
+Wyoming - Bharadhwaj 
+ 
+
+

@@ -1,0 +1,9 @@
+"""
+	config database connection
+"""
+#config mysql connection here
+db_host = "msba6320.oit.umn.edu"
+db_db = "" 
+db_user = ""
+db_passwd =""
+

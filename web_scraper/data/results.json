@@ -1,0 +1,20 @@
+[
+    {
+        "Website": "http://www.google.com", 
+        "Company Size": 10001.0, 
+        "company": "google", 
+        "Headquarters": "1600 Amphitheatre Parkway,Mountain View,CA,94043,United States", 
+        "Founded": "1998", 
+        "Type": "Public Company", 
+        "Industry": "Internet"
+    }, 
+    {
+        "Website": "http://www.generalmills.com", 
+        "Company Size": 10001.0, 
+        "company": "general-mills", 
+        "Headquarters": "One General Mills Boulevard,Minneapolis,Minnesota,55426,United States", 
+        "Founded": "1928", 
+        "Type": "Public Company", 
+        "Industry": "Consumer Goods"
+    }
+]
